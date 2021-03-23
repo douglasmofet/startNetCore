@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZsM5gp+syjScVzyUAaJXBiM5KAWk6T0c8HsJzGrfQGH+c8lsCY/kur4ydQ8vs+kRH59bl6SIe51SvYenDckI4A==",
+  "success": true,
+  "projectFilePath": "C:\\server\\app\\netcore\\startNetCoreSolution\\startNetCore\\startNetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
